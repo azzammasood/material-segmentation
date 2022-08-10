@@ -1,2 +1,4 @@
 # autorough-in-python
-Teddy's AutoRough script translated to Python
+Teddy's AutoRough script translated into Python
+
+Run the code by specifying the path to your image inside the code.
